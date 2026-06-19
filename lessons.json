@@ -69,7 +69,7 @@
             "href" : "https://www.ideals.illinois.edu/handle/2142/50106 "
         }
     ],
-    "lti" : [
+    "xlti" : [
         {
         "title" : "Quiz: HTML/Web Basics",
         "launch" : "tsugi/tool/gift/",
@@ -136,7 +136,7 @@
             "href" : "https://www.ideals.illinois.edu/handle/2142/50106 "
         }
     ],
-    "lti" : [
+    "xlti" : [
         {
         "title" : "Quiz: Tags",
         "launch" : "tsugi/tool/gift/",
@@ -195,7 +195,7 @@
             "href" : "https://www.ideals.illinois.edu/handle/2142/50106 "
         }
     ],
-    "lti" : [
+    "xlti" : [
         {
         "title" : "Quiz: Hosting and Validation",
         "launch" : "tsugi/tool/gift/",
@@ -275,7 +275,7 @@
             "href" : "https://www.weareavp.com/wp-content/uploads/2015/03/IU_mscore_mrivers_guide.pdf"
         }
     ],
-    "lti" : [
+    "xlti" : [
         {
         "title" : "Quiz: Styling Syntax and Theory",
         "launch" : "tsugi/tool/gift/",
@@ -351,7 +351,7 @@
              "href" : "https://www.youtube.com/watch?v=WGfJnSHByNc&t=61s"
          }
     ],
-    "lti" : [
+    "xlti" : [
         {
         "title" : "Quiz: Review (OPTIONAL)",
         "launch" : "tsugi/tool/gift/",
@@ -411,7 +411,7 @@
             "href" : "https://www.weareavp.com/products/adctest/"
         }
     ],
-    "lti" : [
+    "xlti" : [
         {
         "title" : "Quiz: Final Quiz",
         "launch" : "tsugi/tool/gift/",
@@ -474,7 +474,7 @@
             "href" : "https://www.weareavp.com/guide-to-developing-a-request-for-proposal-for-the-digitization-of-audio/"
         }
     ],
-    "lti" : [
+    "xlti" : [
         {
         "title" : "Peer-graded Assignment",
         "launch" : "tsugi/tool/peer-grade/",
@@ -529,7 +529,7 @@
             "href" : ""
         }
     ],
-    "lti" : [
+    "xlti" : [
         {
         "title" : "Quiz: Week 1",
         "launch" : "tsugi/tool/gift/",
@@ -588,7 +588,7 @@
             "href" : "http://mtia.sites.uofmhosting.net/"
         }
     ],
-    "lti" : [
+    "xlti" : [
         {
         "title" : "Peer-graded Assignment",
         "launch" : "tsugi/tool/peer-grade/",
@@ -668,7 +668,7 @@
             "href" : ""
         }
     ],
-    "lti" : [
+    "xlti" : [
         {
         "title" : "Quiz: JavaScript Review",
         "launch" : "tsugi/tool/gift/",
@@ -735,7 +735,7 @@
             "href" : ""
         }
     ],
-    "lti" : [
+    "xlti" : [
         {
         "title" : "Peer-graded Assignment",
         "launch" : "tsugi/tool/peer-grade/",
@@ -790,7 +790,7 @@
             "href":"http://www.digitizationguidelines.gov/audio-visual/documents/help_home.html"
         }
     ],
-    "lti" : [
+    "xlti" : [
         {
         "title" : "Quiz: Basic Concepts in Responsive Design Approaches",
         "launch" : "tsugi/tool/peer-grade/",
@@ -853,7 +853,7 @@
             "href" : "https://www.videolan.org/index.html"
         }
     ],
-    "lti" : [
+    "xlti" : [
         {
         "title" : "Peer-graded Assignment",
         "launch" : "tsugi/tool/peer-grade/",
@@ -913,7 +913,7 @@
             "href" : ""
         }
     ],
-    "lti" : [
+    "xlti" : [
         {
         "title" : "Peer-graded Assignment",
         "launch" : "tsugi/tool/peer-grade/",
